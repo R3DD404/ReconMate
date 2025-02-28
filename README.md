@@ -54,28 +54,16 @@ ReconMate is a versatile reconnaissance tool made for CTFs with a GUI built usin
 1. **Port Scanning**
    - Enter the target IP address or domain.
    - Click "Start Scan" to initiate port scanning.
-   - Review open ports and suggested `nmap` commands for deeper scans.
+   - Review open ports.
 
 2. **Subdirectory Enumeration**
    - Provide the target URL.
-   - Upload or select a wordlist for directory fuzzing.
+   - Scans for directories using a wordlist.
    - View discovered directories and their HTTP status codes.
 
 3. **Stopping or Clearing**
    - Use the "Stop" button to halt ongoing scans.
    - Click "Clear" to reset the results panel.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contact
-
-For questions or feedback, reach out via GitHub issues.
 
 ---
 
